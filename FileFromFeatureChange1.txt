@@ -1,5 +1,3 @@
 this is from feature/change1
 
 new change introduced in change1
-
-second change in change1
